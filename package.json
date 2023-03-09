@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "@babel/cli": "^7.4.4",
+    "primeflex": "^3.3.0",
+    "primeicons": "^6.0.1",
+    "primevue": "^3.23.0",
+    "vue": "3.2.31",
+    "vue-router": "^4.0.0-0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-eslint": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "eslint": "^6.0.0",
+    "eslint-plugin-vue": "^7.0.0"
+  },
+  "main": "src/demo/DataTableDemo.vue",
+  "keywords": [],
+  "name": "primevue-datatablelazy",
+  "description": "DataTableDemo sandbox"
+}
